@@ -3,6 +3,7 @@ China A-share stock dashboard powered by AKShare.
 
 Run:
     streamlit run test.py
+    streamlit run test.py --server.port 8080
 """
 
 from __future__ import annotations
